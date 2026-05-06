@@ -29,10 +29,12 @@
 ## 🗓️ Training Deliverables
 
 | File | Description |
-|------|--------------|
-| 📄 `Daily_Diary_Karanveer_Singh.pdf` | 30-day detailed daily progress diary |
-| 🧾 `README.md` | Project summary and overview |
-| 🧠 `SecureStegoPro_Code/` *(coming soon)* | Python source files for AES encryption and LSB embedding |
+|------|-------------|
+| `DAILY DIARY.pdf` | 30-day detailed daily progress diary |
+| `README.md` | Project summary and overview |
+| `SecureStegoPro_Code/` | Python source files for AES encryption and LSB embedding |
+| `covers/` | Sample cover images used for testing |
+| `examples/` | Sample output/stego images |
 
 ---
 
